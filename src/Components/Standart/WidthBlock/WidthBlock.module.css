@@ -5,7 +5,7 @@
     gap: 80px;
 }
 
-@media (min-width: 0px) and (max-width: 1299px) {
+@media (min-width: 0px) and (max-width: 1920px) {
     .WidthBlock{
         width: 100%;
         display: flex;
